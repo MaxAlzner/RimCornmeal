@@ -57,7 +57,6 @@
     <Content Include="Defs\RecipeDefs\Recipes_Bread.xml" />
     <Content Include="Defs\RecipeDefs\Recipes_Condiments.xml" />
     <Content Include="Defs\ThingDefs\Items_RawPlant.xml" />
-    <Content Include="Defs\ThingDefs\Items_Bakes.xml" />
     <Content Include="Textures\Things\Items\Raw\Cornmeal.png" />
     <Content Include="Textures\Things\Items\Resource\Food\Cornbread_a.png" />
     <Content Include="Textures\Things\Items\Resource\Food\Cornbread_b.png" />
