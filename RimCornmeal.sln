@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RimCornmeal", "RimCornmeal.csproj", "{A473EB3E-570D-499A-8EE4-8794D1920ED1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A473EB3E-570D-499A-8EE4-8794D1920ED1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A473EB3E-570D-499A-8EE4-8794D1920ED1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A473EB3E-570D-499A-8EE4-8794D1920ED1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A473EB3E-570D-499A-8EE4-8794D1920ED1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECDCBC5A-BF05-4397-AD87-C7DBD19BDB0E}
+	EndGlobalSection
+EndGlobal
